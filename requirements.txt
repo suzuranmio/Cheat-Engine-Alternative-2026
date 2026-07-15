@@ -1,0 +1,6 @@
+colorama
+pymem
+win32api
+mss
+requests
+pynput
